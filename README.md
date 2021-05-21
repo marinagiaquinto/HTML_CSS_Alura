@@ -1,7 +1,7 @@
 # Curso de HTML5 e CSS3 - Alura
 ***
 
-![imagem](html_css_ima.jpg)
+![imagem](image/imagem_github.jpeg)
 
 Alura é uma plataforma que oferece diversos cursos pagos. Dentre estes, HTML5 e CSS3. Como em seus diversos cursos de formação, 
 a parte prática do aprendizado requer o desenvolvimento de "produtos Alura". Aqui, o HTML e o CSS tornam-se os alicerces da nossa "Barbearia Alura".
